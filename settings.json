@@ -3,13 +3,13 @@
   "bot-account": {
     "username": "Kim",
     "password": "",
-    "type": "offline"
+    "type": "online"
   },
   "server": {
     "ip": "Mil0sh.aternos.me",
     "port": 25565,
     "version": "",
-    "try-creative": false
+    "try-creative": true
   },
   "position": {
     "enabled": true,
